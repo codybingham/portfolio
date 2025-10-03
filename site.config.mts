@@ -8,7 +8,7 @@ export interface SocialLink {
 }
 
 export default {
-	title: 'SR',
+	title: 'CB',
 	favicon: 'favicon.ico',
 	owner: 'Cody Bingham',
 	profileImage: 'profile.webp',
