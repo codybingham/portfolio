@@ -88,91 +88,81 @@ images:
       collections:
         - nature
     exif: {}
-- path: nature/Cody-2.jpg
-  meta:
-    title: Nature scene 1
-    description: Serene natural landscape capturing the essence of wilderness.
-    collections:
-      - nature
-  exif: {}
-
-- path: nature/Cody-4.jpg
-  meta:
-    title: Nature scene 2
-    description: Serene natural landscape capturing the essence of wilderness.
-    collections:
-      - nature
-  exif: {}
-
-- path: nature/Cody-9.jpg
-  meta:
-    title: Nature scene 3
-    description: Serene natural landscape capturing the essence of wilderness.
-    collections:
-      - nature
-  exif: {}
-
-- path: nature/Cody-12.jpg
-  meta:
-    title: Nature scene 4
-    description: Serene natural landscape capturing the essence of wilderness.
-    collections:
-      - nature
-  exif: {}
-
-- path: nature/Cody-14.jpg
-  meta:
-    title: Nature scene 5
-    description: Serene natural landscape capturing the essence of wilderness.
-    collections:
-      - nature
-  exif: {}
-
-- path: nature/Cody-18.jpg
-  meta:
-    title: Nature scene 6
-    description: Serene natural landscape capturing the essence of wilderness.
-    collections:
-      - nature
-  exif: {}
-
-- path: nature/Cody-19.jpg
-  meta:
-    title: Nature scene 7
-    description: Serene natural landscape capturing the essence of wilderness.
-    collections:
-      - nature
-  exif: {}
-
-- path: nature/Cody-27.jpg
-  meta:
-    title: Nature scene 8
-    description: Serene natural landscape capturing the essence of wilderness.
-    collections:
-      - nature
-  exif: {}
-
-- path: nature/Cody-28.jpg
-  meta:
-    title: Nature scene 9
-    description: Serene natural landscape capturing the essence of wilderness.
-    collections:
-      - nature
-  exif: {}
-
-- path: nature/Cody-31.jpg
-  meta:
-    title: Nature scene 10
-    description: Serene natural landscape capturing the essence of wilderness.
-    collections:
-      - nature
-  exif: {}
-
-- path: nature/Cody-32.jpg
-  meta:
-    title: Nature scene 11
-    description: Serene natural landscape capturing the essence of wilderness.
-    collections:
-      - nature
-  exif: {}
+  - path: nature/Cody-2.jpg
+    meta:
+      title: Nature scene 1
+      description: Serene natural landscape capturing the essence of wilderness.
+      collections:
+        - nature
+    exif: {}
+  - path: nature/Cody-4.jpg
+    meta:
+      title: Nature scene 2
+      description: Serene natural landscape capturing the essence of wilderness.
+      collections:
+        - nature
+    exif: {}
+  - path: nature/Cody-9.jpg
+    meta:
+      title: Nature scene 3
+      description: Serene natural landscape capturing the essence of wilderness.
+      collections:
+        - nature
+    exif: {}
+  - path: nature/Cody-12.jpg
+    meta:
+      title: Nature scene 4
+      description: Serene natural landscape capturing the essence of wilderness.
+      collections:
+        - nature
+    exif: {}
+  - path: nature/Cody-14.jpg
+    meta:
+      title: Nature scene 5
+      description: Serene natural landscape capturing the essence of wilderness.
+      collections:
+        - nature
+    exif: {}
+  - path: nature/Cody-18.jpg
+    meta:
+      title: Nature scene 6
+      description: Serene natural landscape capturing the essence of wilderness.
+      collections:
+        - nature
+    exif: {}
+  - path: nature/Cody-19.jpg
+    meta:
+      title: Nature scene 7
+      description: Serene natural landscape capturing the essence of wilderness.
+      collections:
+        - nature
+    exif: {}
+  - path: nature/Cody-27.jpg
+    meta:
+      title: Nature scene 8
+      description: Serene natural landscape capturing the essence of wilderness.
+      collections:
+        - nature
+    exif: {}
+  - path: nature/Cody-28.jpg
+    meta:
+      title: Nature scene 9
+      description: Serene natural landscape capturing the essence of wilderness.
+      collections:
+        - nature
+    exif: {}
+  - path: nature/Cody-31.jpg
+    meta:
+      title: Nature scene 10
+      description: Serene natural landscape capturing the essence of wilderness.
+      collections:
+        - nature
+    exif: {}
+  - path: nature/Cody-32.jpg
+    meta:
+      title: Nature scene 11
+      description: Serene natural landscape capturing the essence of wilderness.
+      collections:
+        - nature
+    exif: {}
 
