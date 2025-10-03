@@ -8,7 +8,7 @@ repos:
       - id: end-of-file-fixer
       - id: check-yaml
       - id: check-added-large-files
-        exclude: src/gallery/*
+        exclude: ^src/gallery/
   - repo: local
     hooks:
       - id: prettier
@@ -17,6 +17,7 @@ repos:
         language: system
         types: [file]
         files: \.(js|jsx|ts|tsx|json|md|css|scss|html|astro)$
+        pass_filenames: false
   - repo: local
     hooks:
       - id: eslint
@@ -25,3 +26,4 @@ repos:
         language: system
         types: [file]
         files: \.(js|ts|astro)$
+        pass_filenames: false
